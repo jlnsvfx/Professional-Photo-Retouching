@@ -1,0 +1,5 @@
+{
+  "name": "RetouchAI",
+  "description": "Professional-grade AI photo retouching and editing tool powered by Gemini. Upload portraits to remove wrinkles, blemishes, or modify features with natural language prompts.",
+  "requestFramePermissions": []
+}
